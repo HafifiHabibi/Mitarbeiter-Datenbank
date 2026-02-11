@@ -1,0 +1,144 @@
+Mitarbeiternummer: 7854
+Vorname: MLilli
+Name: Rock
+Postleitzahl: 4291
+Gehalt: 3131 â‚¬ 
+
+Mitarbeiternummer: 8989
+Vorname: fdsa
+Name: fdas
+Postleitzahl: 0
+Gehalt: 0 â‚¬ 
+
+Mitarbeiternummer: 9104
+Vorname: fdsa
+Name: fasd
+Postleitzahl: 0
+Gehalt: 0 â‚¬ 
+
+Mitarbeiternummer: 9120
+Vorname: fdsa
+Name: fdas
+Postleitzahl: 0
+Gehalt: 0 â‚¬ 
+
+Mitarbeiternummer: 9179
+Vorname: Hafes
+Name: Abdalla
+Postleitzahl: 4177
+Gehalt: 9e+06 â‚¬ 
+
+Mitarbeiternummer: 9251
+Vorname: fasfadsf
+Name: fdasfdsa
+Postleitzahl: 0
+Gehalt: 0 â‚¬ 
+
+Mitarbeiternummer: 9326
+Vorname: Hafes
+Name: Abdalla
+Postleitzahl: 23920
+Gehalt: 21 â‚¬ 
+
+Mitarbeiternummer: 9466
+Vorname: hafes
+Name: fufuf
+Postleitzahl: 868
+Gehalt: 432 â‚¬ 
+
+Mitarbeiternummer: 9505
+Vorname: gsfdgsfdg
+Name: gfdsgfsd
+Postleitzahl: 432423
+Gehalt: 423424 â‚¬ 
+
+Mitarbeiternummer: 9757
+Vorname: gfsgsdfg
+Name: gfsdgsdf
+Postleitzahl: 4325325
+Gehalt: 423 â‚¬ 
+
+Mitarbeiternummer: 9783
+Vorname: gfsdgdfs
+Name: gfdsgfsd
+Postleitzahl: 0
+Gehalt: 0 â‚¬ 
+
+Mitarbeiternummer: 1245
+Vorname: Hafes
+Name: Anda
+Postleitzahl: 43242
+Gehalt: 42342 â‚¬ 
+
+Mitarbeiternummer: 1307
+Vorname: fasdf
+Name: fdsafs
+Postleitzahl: 0
+Gehalt: 213 â‚¬
+
+Mitarbeiternummer: 8246
+Vorname: Drake
+Name: Malboy
+Postleitzahl: 4177
+Gehalt: 900 â‚¬‚¬ 
+
+Mitarbeiternummer: 2791
+Vorname: jenss
+Name: gustav
+Postleitzahl: 90753
+Gehalt: 187 â‚¬ 
+
+Mitarbeiternummer: 8303
+Vorname: fdsa
+Name: fdsa
+Postleitzahl: 0
+Gehalt: 0 â‚¬ 
+
+Mitarbeiternummer: 5702
+Vorname: maruis
+Name: fa
+Postleitzahl: 43214
+Gehalt: 321 â‚¬ 
+
+Mitarbeiternummer: 9472
+Vorname: lara
+Name: huhu
+Postleitzahl: 4177
+Gehalt: 7890 € 
+
+Mitarbeiternummer: 1622
+Vorname: maria
+Name: san
+Postleitzahl: 43822
+Gehalt: 43213 € 
+
+Mitarbeiternummer: 1851
+Vorname: fhads
+Name: fdsa
+Postleitzahl: 4324
+Gehalt: 3213 € 
+
+Mitarbeiternummer: 8655
+Vorname: Moritz
+Name: H„nisch
+Postleitzahl: 4177
+Gehalt: 3.21898e+12 € 
+
+Mitarbeiternummer: 5438
+Vorname: Lara
+Name: hauck
+Postleitzahl: 9432
+Gehalt: 432 € 
+
+Mitarbeiternummer: 5559
+Vorname: Mnesch
+Name: du
+Postleitzahl: 0
+Gehalt: 0 € 
+
+Mitarbeiternummer: 5673
+Vorname: haha
+Name: dfs
+Postleitzahl: 4322
+Gehalt: 6534 € 
+
